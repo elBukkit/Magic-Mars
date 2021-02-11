@@ -1,0 +1,8 @@
+examples:
+  mars:
+    instructions: |-
+      &8| &c&nMARS &r
+      &8| &f Creates a hostile environment in the world &r
+      &8| &f    &cworld_mars &r
+      &8| &f For the full experience you will need the world generator &r
+      &8| &f https://github.com/TheBugWhisperer/Minecraft-Mars &r
