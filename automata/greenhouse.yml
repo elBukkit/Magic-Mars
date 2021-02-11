@@ -1,0 +1,4 @@
+greenhouse:
+  name: Greenhouse
+  description: So humid!
+  effects: greenhouse

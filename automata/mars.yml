@@ -1,0 +1,6 @@
+mars:
+  name: Mars Air
+  interval: 5000
+  cast:
+    spells: mars
+  always_active: true

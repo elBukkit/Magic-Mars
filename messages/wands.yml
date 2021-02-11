@@ -1,0 +1,6 @@
+wands:
+  spacehelmet:
+    name: SpaceX Helmet
+  airpump:
+    name: Air Pump
+    description: Keeps you alive on Mars, as long as you're in an enclosed space

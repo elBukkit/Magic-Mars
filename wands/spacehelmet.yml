@@ -1,0 +1,9 @@
+spacehelmet:
+    icon: light_blue_stained_glass{CustomModelData:18001}
+    legacy_icon: stained_glass:3
+    indestructible: true
+    locked: true
+    enchantments: oxygen
+    worn: true
+    wearable: helmet
+    worth: 1000
