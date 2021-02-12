@@ -6,6 +6,7 @@ world_mars:
     entity_spawn:
 
       meteors:
+        priority: 10
         class: Cast
         target_class: LivingEntity
         not_types: armor_stand
@@ -14,3 +15,10 @@ world_mars:
         spells:
           none: 100
           marsmeteor: 10
+
+      prevent:
+        priority: 1
+        class: Replace
+        target_class: LivingEntity
+        not_types: armor_stand
+        replace_type: remove
