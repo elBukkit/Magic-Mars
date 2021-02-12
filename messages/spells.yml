@@ -1,3 +1,5 @@
 spells:
   mars:
     cast_player_message: ""
+  spaceflight:
+    cast_player_message: ""
