@@ -14,7 +14,7 @@ world_mars:
         cooldown: 1000
         spells:
           none: 100
-          marsmeteor: 10
+          marsmeteor: 100
 
       prevent:
         priority: 1
