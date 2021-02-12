@@ -12,5 +12,5 @@ world_mars:
         allow_indoors: false
         cooldown: 1000
         spells:
-          none: 1
-          marsmeteor: 10000
+          none: 100
+          marsmeteor: 10
