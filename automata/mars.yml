@@ -1,5 +1,5 @@
 mars:
-  name: Mars Air
+  name: Mars
   interval: 5000
   cast:
     spells: mars

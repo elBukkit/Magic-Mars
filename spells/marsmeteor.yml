@@ -19,8 +19,6 @@ marsmeteor:
                 radius: 5
                 actions:
                 - class: Velocity
-                - class: PotionEffect
-                - class: Ignite
                 - class: Damage
               -  class: Sphere
                  actions:
