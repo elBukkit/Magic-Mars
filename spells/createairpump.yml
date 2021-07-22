@@ -8,7 +8,7 @@ createairpump:
           target_attachment: true
           actions:
           - class: ModifyBlock
-          - class: CreateAutomaton
+          - class: CreateMagicBlock
     parameters:
         target: block
         range: 4
