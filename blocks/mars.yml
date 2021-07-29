@@ -3,4 +3,5 @@ mars:
   interval: 5000
   cast:
     spells: mars
+    allow_overlap: true
   always_active: true
